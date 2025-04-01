@@ -8,7 +8,7 @@ This simulation includes:
 ✅ Impact of internal resistance and load variations
 ✅ Performance evaluation under different operating conditions
 
-🛠 Requirements
+🛠 Requirements: 
 MATLAB R2021a or later
 Simulink and Simscape Power Systems toolbox
 
