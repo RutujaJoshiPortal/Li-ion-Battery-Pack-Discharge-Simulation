@@ -21,4 +21,4 @@ This project simulates the **discharge behavior** of a **Lithium-ion battery pac
 
 ---
 
-This formatting ensures **proper alignment, readability, and structure**. Let me know if you need any modifications! 🚀
+
